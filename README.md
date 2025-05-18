@@ -3,9 +3,11 @@ VENV - Instalar entorno virtual
 python -m venv venv
 venv\Scripts\activate
 
+
 Librerias necesarias
 
 pip install opencv-python torch torchvision pyautogui numpy matplotlib
+
 
 Requerimientos YOLOv5
 
